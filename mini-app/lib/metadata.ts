@@ -1,3 +1,3 @@
-export const title = "Mini App Factory App";
-export const description = "This app was created by the Mini App Factory!";
+export const title = "Token Swap Helper";
+export const description = "Token Swap Helper is a Mini App that simplifies cryptocurrency swaps across different networks. Compare token prices, fees, and routes in real-time to find the best swap options. Get instant alerts and guidance to make secure and cost-efficient transactions. Real-time token swap comparison across networks. Displays fees, rates, and optimal routes. Instant notifications for favorable swap conditions. Simple and intuitive dashboard for quick swaps. Helps users save time and reduce transaction costs. Ideal for crypto traders and holders who want to execute swaps efficiently while minimizing fees and maximizing value.";
 export const url = process.env.NEXT_PUBLIC_URL;
